@@ -35,5 +35,6 @@ export const LimitContainer = styled.div`
   max-width: 498px;
   display: flex;
   justify-content: center;
-  background-color: blue;
+  //background-color: blue;
+  flex-direction: column;
 `;
